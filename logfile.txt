@@ -1,0 +1,17 @@
+commit 710cc3eb6f7b0fc7fa2ccf6524e41929fbda7af1
+Author: sarath4u <sarath.r20@gmail.com>
+Date:   Sun Dec 10 02:03:53 2017 +0530
+
+    added .gitignore
+
+commit e7b538db141ead66d56484640895e39f5936eb7f
+Author: sarath4u <sarath.r20@gmail.com>
+Date:   Sun Dec 10 01:18:24 2017 +0530
+
+    added two files
+
+commit bb4ad2193a0dddc45c3b3f36779f0335a177e61d
+Author: sarath4u <sarath.r20@gmail.com>
+Date:   Sat Dec 9 07:04:36 2017 +0530
+
+    added readme.txt
