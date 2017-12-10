@@ -1,28 +1,33 @@
 # This is a large heading
+# single hashtag is used for that
 
 ## This is a smaller heading
+## two hashtags makes it larger
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+texts inside sets two **asterisks** becomes boldface while inside sets of one asterisk becomes italicised
 
-- This is
-- an unordered
-- list
+itemising is 
 
-1. This is
-2. an ordered
-3. list
+- straigt
+- forward
 
-Here is `some code` in the middle of a sentence.
+1. with
+2. hyphens
+3. and
+4. numbers
 
+`for { i = 0; i < 5; ++i }` is a code
+and
 ```
-This is
-a block
-of code
+{
+sum += count
+end
+}
 ```
+is a code block
 
-Here is how you make [a link](https://www.wikipedia.org/).
+[a link](https://www.wikipedia.org/) is easy to give
+
+and even a picture: 
 
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
